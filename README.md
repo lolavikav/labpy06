@@ -281,6 +281,27 @@ else:
 Jika pengguna memasukkan pilihan selain angka `1 hingga 5`, program akan menampilkan pesan `"Pilihan tidak valid."` dan kembali menampilkan menu.
 
 ## Code Prpgram tersebut:
+![code 22](https://github.com/user-attachments/assets/c92657ff-3298-4f77-a9bc-56c88a92715d)
+
+## Hasil program tersebut:
+![Screenshot 2024-12-01 192528](https://github.com/user-attachments/assets/c801b598-cbb0-44a1-a771-b035e5ebb9ab)
+
+![Screenshot 2024-12-01 192550](https://github.com/user-attachments/assets/ed394ceb-ab2e-4067-88f8-559bd53d3dc7)
+
+![Screenshot 2024-12-01 192636](https://github.com/user-attachments/assets/2ef1a03c-2093-4545-af4b-2945b54342da)
+
+![Screenshot 2024-12-01 192705](https://github.com/user-attachments/assets/5f511543-6e46-457d-9089-9499cd954002)
+
+![Screenshot 2024-12-01 231841](https://github.com/user-attachments/assets/611ae32b-0444-4dba-805b-d6267f86dae5)
+
+## Hasil flowchart code tersebut:
+
+
+
+
+
+
+
 
 
 
