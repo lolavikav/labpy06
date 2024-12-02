@@ -295,6 +295,8 @@ Jika pengguna memasukkan pilihan selain angka `1 hingga 5`, program akan menampi
 ![Screenshot 2024-12-01 231841](https://github.com/user-attachments/assets/611ae32b-0444-4dba-805b-d6267f86dae5)
 
 ## Hasil flowchart code tersebut:
+![flowchart06](https://github.com/user-attachments/assets/c3159124-51af-4621-a198-5f3b196004f7)
+
 
 
 
